@@ -21,3 +21,15 @@
  
 #### Example:
 ![image](https://github.com/user-attachments/assets/3e0e541f-bced-454d-a7b2-ce4c2b8d1e89)
+
+ With port 22 open, I was able to access the SSh service and subsequently obtained the SSh private key. I then proceed with ![image](https://github.com/user-attachments/assets/332412b7-468d-4a9f-ba11-39d27f3f9075) command to set permissions for the ![image](https://github.com/user-attachments/assets/8d04228f-2051-4bd1-b9c4-b11a3b1ec405) file. 
+ - ![image](https://github.com/user-attachments/assets/99e2ceda-a346-43d6-bfeb-907621cb1bf2) is the command that will change the file permission(s)
+ - ![image](https://github.com/user-attachments/assets/40ccca80-30a9-415d-96c8-04634e3cfd05) will set the permission(s) in order for the owner (me) to read and write the file, but no one else can access.
+   - Owner: Read and write permission ![image](https://github.com/user-attachments/assets/c696e0df-747f-4f51-ab36-50e29c6e4067)
+   - Group: No permission ![image](https://github.com/user-attachments/assets/f29aa300-0f6c-443c-add0-90db53339c85)
+   - Others: No permission ![image](https://github.com/user-attachments/assets/4f1a6d6d-e1b4-4dee-a7ae-ab379677e1af)
+
+
+
+
+
