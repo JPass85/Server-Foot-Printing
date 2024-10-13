@@ -12,7 +12,12 @@
 ## Approach
 
 ### Server 1:
- Through a basic social engineering approach, I successfully obtained credentials for one of the company's employees. Additionally, I found that other employees were discussing SSH keys on a forum. Using Nmap, I methodically enumerated the server with the ![image](https://github.com/user-attachments/assets/599d8713-eebc-40d3-81a4-c4c544da7df3) command to identify open ports. The scan revealed serval open ports, including an FTP port (2121), which I was able to access using the credentials I had intially retrieved.
+ Through a basic social engineering approach, I successfully obtained credentials for one of the company's employees. Additionally, I found that other employees were discussing SSH keys on a forum. Using Nmap, I methodically enumerated the server with the ![image](https://github.com/user-attachments/assets/599d8713-eebc-40d3-81a4-c4c544da7df3) command to identify open ports. 
  
 #### Example:
-![image](https://github.com/user-attachments/assets/0fb418f5-7ce8-416a-b3af-1f2e5bac9247)
+![image](https://github.com/user-attachments/assets/c30d7c81-2987-46d6-a8fd-cd24a10abe2d)
+
+ The scan revealed serval open ports, including an FTP port (2121), which I was able to access using the credentials I had intially retrieved.
+ 
+#### Example:
+![image](https://github.com/user-attachments/assets/3e0e541f-bced-454d-a7b2-ce4c2b8d1e89)
