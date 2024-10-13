@@ -29,7 +29,10 @@
    - Group: No permission ![image](https://github.com/user-attachments/assets/f29aa300-0f6c-443c-add0-90db53339c85)
    - Others: No permission ![image](https://github.com/user-attachments/assets/4f1a6d6d-e1b4-4dee-a7ae-ab379677e1af)
 
+ Now that permission has been established, I then proceeded with a simple enumeration to obtain files that could be used againsted the company. 
 
+ #### Example:
+ ![image](https://github.com/user-attachments/assets/db0196c0-dece-4475-8cd1-9777eb9b4ad1)
 
 
 
