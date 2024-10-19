@@ -34,6 +34,9 @@
  #### Example:
  ![image](https://github.com/user-attachments/assets/db0196c0-dece-4475-8cd1-9777eb9b4ad1)
 
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Server 2:
  As previously with the first server, I began using Nmap to enumerate the second server with the ![image](https://github.com/user-attachments/assets/8839d508-0597-4b17-8a66-d6de516ef59c) command to identify open ports. I identified several open ports, and upon closer inspection, observed that multiple services were running, including RPC, SMB, and NFS.
 
