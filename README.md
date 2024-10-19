@@ -49,6 +49,15 @@
 #### Example:
 ![image](https://github.com/user-attachments/assets/00b5cf8c-f04d-4d71-87fe-ca3c261c92ea)
 
+ At this point, I was able to access the directory as the root user. After gaining access, I listed the contents using the ![image](https://github.com/user-attachments/assets/17765708-00bb-44a5-82c4-f43d9de0867a)
+command and found several ![image](https://github.com/user-attachments/assets/203cbf94-1b6e-45c6-8178-0478a93053fe) files. Since several of the files were empty, I used the ![image](https://github.com/user-attachments/assets/c37d57b0-efd6-49b9-becb-93813c7b9a13) command to attempt reading all the files at once. Results now displayed new credentials.
+
+#### Example:
+![image](https://github.com/user-attachments/assets/cc0ecaa2-f211-49b7-8045-403cf22ab809)
+
+
+ 
+
 
 
 #### Example:
