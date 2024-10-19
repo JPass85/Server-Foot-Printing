@@ -55,6 +55,19 @@ command and found several ![image](https://github.com/user-attachments/assets/20
 #### Example:
 ![image](https://github.com/user-attachments/assets/cc0ecaa2-f211-49b7-8045-403cf22ab809)
 
+ At this stage, I used ![image](https://github.com/user-attachments/assets/8f7694df-9099-4d90-b8ce-d7d995582df9) with the new credentials to check for available shares. After the results were displayed, I noticed that the ![image](https://github.com/user-attachments/assets/6fcf2198-6bd8-47aa-8b54-11c9d177135a) disk type was available under ![image](https://github.com/user-attachments/assets/3fa0bfbf-cc52-4580-8fdb-df1d77889dd6). I then use the ![image](https://github.com/user-attachments/assets/56117e5b-5ddc-49b9-96ac-578c3308adb8) command to further explore the share. 
+
+#### Example:
+![image](https://github.com/user-attachments/assets/899a5776-b703-4eff-9ae5-9ba363a9fa41)
+
+ At this point, I used the ![image](https://github.com/user-attachments/assets/c02a2bf3-221a-4e30-9368-5fc17a35c154) command within the SMB share, which revealed an ![image](https://github.com/user-attachments/assets/1f55ee56-5f3f-4c52-b04b-0bf624a6933f) file. I then used the ![image](https://github.com/user-attachments/assets/a1dfd824-5a5b-4a44-8229-0fdd5651257c) file command to read the file, which provided a different set of login credentials.
+
+ #### Example:
+ ![image](https://github.com/user-attachments/assets/e026fc0b-251a-4e1d-bf62-b27e1b40240b)
+
+
+
+
 
  
 
