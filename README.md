@@ -44,7 +44,11 @@
 ![image](https://github.com/user-attachments/assets/6ca57bc7-b997-4a5b-b2aa-3b8f61e89571)
 
  
- I decided to focus on the NFS service and proceeded by utilizing the ![image](https://github.com/user-attachments/assets/1909f6ba-26f9-4c95-8f0b-7010e8391dfb) command.
+ I decided to focus on the NFS service and proceeded by utilizing the ![image](https://github.com/user-attachments/assets/1909f6ba-26f9-4c95-8f0b-7010e8391dfb) command. Result displayed a share named ![image](https://github.com/user-attachments/assets/5fb37c76-efcd-456d-9440-c41e38063cd7). For mounting the share, I created a directory with the ![image](https://github.com/user-attachments/assets/2b219220-2e7d-4494-aeef-4f5bc49bcc72) command and then proceeded using the ![image](https://github.com/user-attachments/assets/459fa55b-19af-4152-adf5-99542267c791) command.
+
+#### Example:
+![image](https://github.com/user-attachments/assets/00b5cf8c-f04d-4d71-87fe-ca3c261c92ea)
+
 
 
 #### Example:
