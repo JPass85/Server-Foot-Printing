@@ -35,6 +35,19 @@
  ![image](https://github.com/user-attachments/assets/db0196c0-dece-4475-8cd1-9777eb9b4ad1)
 
 ### Server 2:
+ As previously with the first server, I began using Nmap to enumerate the second server with the ![image](https://github.com/user-attachments/assets/8839d508-0597-4b17-8a66-d6de516ef59c) command to identify open ports. I identified several open ports, and upon closer inspection, observed that multiple services were running, including RPC, SMB, and NFS.
+
+ #### Example:
+![image](https://github.com/user-attachments/assets/6ca57bc7-b997-4a5b-b2aa-3b8f61e89571)
+
+ 
+ I decided to focus on the NFS service and proceeded by utilizing the ![image](https://github.com/user-attachments/assets/1909f6ba-26f9-4c95-8f0b-7010e8391dfb) command.
+
 
 #### Example:
+![image](https://github.com/user-attachments/assets/68f3dae5-72b8-48aa-a757-7084f009b161)
+
+##### Example:
+![image](https://github.com/user-attachments/assets/71b4939e-5c80-43b3-8079-a797e8f13f7f)
+
 
