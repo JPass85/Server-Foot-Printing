@@ -65,17 +65,18 @@ command and found several ![image](https://github.com/user-attachments/assets/20
  #### Example:
  ![image](https://github.com/user-attachments/assets/e026fc0b-251a-4e1d-bf62-b27e1b40240b)
 
+ Lastly I used ![image](https://github.com/user-attachments/assets/56a4de20-f287-4289-8db2-628f36f4c4f7) command-line which allows me to access Windows desktops and applications remotely from various platforms. 
 
+#### Example: 
+![image](https://github.com/user-attachments/assets/70ab544c-fb88-4d15-abe5-ab6bdb289000)
 
-
-
- 
-
-
+ At this point, using the last retrieved credentials, I opened MSSQL with administrator privileges by right-clicking the icon and selecting 'Run as administrator.' With the final login credentials I received, I successfully gained access. From there, I navigated to 'Database,' then 'Accounts,' to view the 'Tables' folder. Once I reached that folder, I right-clicked on 'dbo.devsacc' and selected 'Edit Top 200 Rows". 
 
 #### Example:
 ![image](https://github.com/user-attachments/assets/68f3dae5-72b8-48aa-a757-7084f009b161)
 
+
+ From this point, all credentials are displayed. After a few seconds of scrolling, I found the credentials for "Papa Bear", which were created by the client for this vulnerability check.
 ##### Example:
 ![image](https://github.com/user-attachments/assets/71b4939e-5c80-43b3-8079-a797e8f13f7f)
 
