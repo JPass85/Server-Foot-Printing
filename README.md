@@ -99,5 +99,19 @@ Using the credentials, I intially tried enumerating with ![image](https://github
 ![image](https://github.com/user-attachments/assets/c11c1453-94af-47bd-8c57-e352a9878876)
 
 
+I used ![image](https://github.com/user-attachments/assets/686510a3-2d5e-4e11-a377-de16289061f6) command to save the ![image](https://github.com/user-attachments/assets/3a3dcfcb-17d1-4221-b406-79156fd2452a). After saving it, I ran ![image](https://github.com/user-attachments/assets/87026b59-e18b-480b-89a0-a3a4693b442d), which allowed me to follow up the command ![image](https://github.com/user-attachments/assets/23151189-d3fb-4bc6-963e-177ef7a0ff9f). This granted me access with the credetials I had obtained earlier. During enumeration, I discovered the ![image](https://github.com/user-attachments/assets/4fd5f8c7-a5a0-47d5-8ca8-ad654b54d3aa) file. Upon reviewing the file, I found that the user I logged in as had previously used ![image](https://github.com/user-attachments/assets/01c0d965-026f-4bf1-b6fe-3a0711c16e63). 
+
+#### Example:
+![image](https://github.com/user-attachments/assets/d5eb3719-aa2e-4bf4-9d49-d9d0f699bf02)
+
+Since I already had the credentials, I could now delve deeper into the history to enumerate SQL queries and uncover the ![image](https://github.com/user-attachments/assets/181cd0e7-2bc9-4917-8bd9-8f6b2cb23db7) credentials by executing a few additional commands. 
+
+#### Example:
+![image](https://github.com/user-attachments/assets/d94376cb-2cdb-4d3f-9864-80b7c707e92d)
+
+
+
+
+
 
 
