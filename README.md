@@ -83,5 +83,21 @@ command and found several ![image](https://github.com/user-attachments/assets/20
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Server 3:
+ As before, I began by using Nmap with the command ![image](https://github.com/user-attachments/assets/58811810-e3dc-4938-a29d-86f00c0727ce) to check for open ports. While I found a few open ports, none provided useful information. I then decided to explore other options, and the UDP scan revealed more valuable insights.
 
 #### Example:
+![image](https://github.com/user-attachments/assets/ded1ab5e-b0ba-4c00-8ce0-62ab1c830e72)
+
+ Next, I began enumerating ![image](https://github.com/user-attachments/assets/368f98b1-2924-43f7-bd38-e7081fe8e758) using the command ![image](https://github.com/user-attachments/assets/e6b35b59-df13-422d-b474-0ad72cb9c4a4). This command provide me with login credentials that I could use.
+
+#### Example: 
+![image](https://github.com/user-attachments/assets/9ac5d15a-7740-4c72-a0e0-a1506fd89ba5)
+
+Using the credentials, I intially tried enumerating with ![image](https://github.com/user-attachments/assets/3e44f4e2-b902-4372-ae07-a6329cc943c8), but that was unsuccessful. I then switched to ![image](https://github.com/user-attachments/assets/1f1ff001-28a7-47b7-bf42-a65a17ca4523) using the command ![image](https://github.com/user-attachments/assets/35d7c6fd-5775-4b97-a379-ed00cbbe3536). After running several commands, I was able to retrieve the ![image](https://github.com/user-attachments/assets/810e7642-d555-487b-b38a-669a698655aa).
+
+#### Example:
+![image](https://github.com/user-attachments/assets/c11c1453-94af-47bd-8c57-e352a9878876)
+
+
+
+
